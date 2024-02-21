@@ -1,0 +1,1 @@
+This Power BI project involves calculated columns and measures to extract key information such as Month and Year from dates, and Total Sales. Insights include detailed analyses on sales by BrandID, CustomerID, Country, Months, Customer Region, Location ID, and Product ID, providing a comprehensive view for strategic decision-making.
